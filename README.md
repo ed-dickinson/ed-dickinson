@@ -1,5 +1,25 @@
 ### Howdy 👋
 
+:floppy_disk: Check out some of the stuff I've made,
+
+:notes: or the music that's come out of me.
+
+:v:
+
+<!-- I like:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) -->
+
+![Ed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ed-dickinson&show_icons=true&hide=prs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ed-dickinson&layout=compact&exclude_repo=hi,ed-dickinson.github.io)
+
 <!--
 **ed-dickinson/ed-dickinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,13 +35,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Ed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ed-dickinson&show_icons=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 
+I am on:
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ed-dickinson&layout=compact&exclude_repo=hi,ed-dickinson.github.io)](https://github.com/anuraghazra/github-readme-stats)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-:floppy_disk: Check out some of the stuff I've made,
-
-:notes: or the music that's come out of me.
-
-:v:
-
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) -->
