@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ed-dickinson&layout=compact&exclude_repo=hi,ed-dickinson.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
-:floppy_disk: Check out some of the stuff I've made:
+:floppy_disk: Check out some of the stuff I've made,
 
-:notes: Or the music that's come out of me. :musical-notes:
+:notes: or the music that's come out of me.
 
 :v:
 
