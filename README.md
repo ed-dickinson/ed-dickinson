@@ -1,8 +1,8 @@
 ### Howdy 👋
 
-:floppy_disk: Check out some of the stuff I've made,
+:floppy_disk: Check out some of the stuff that I, ([or my alter-ego](https://crumbdouglas.github.io/) :notes:), have made.
 
-:notes: or the music that's come out of me.
+<!-- :floppy_disk: [Check out some of the stuff](https://ed-dickinson.github.io/) that I, ([or my alter-ego](https://crumbdouglas.github.io/) :notes:), have made. -->
 
 :v:
 
