@@ -1,20 +1,33 @@
-### Howdy 👋
+# 👋
+### Howdy
 
-:floppy_disk: Check out some of the stuff that I, ([or my alter-ego](https://crumbdouglas.github.io/) :notes:), have made.
+I'm a budding Javascript developer and web designer. Full-stack, front-end, full-back, centre-midfield– I'm into it all.
 
-<!-- :floppy_disk: [Check out some of the stuff](https://ed-dickinson.github.io/) that I, ([or my alter-ego](https://crumbdouglas.github.io/) :notes:), have made. -->
-
-:v:
-
-<!-- I like:
+My tools of choice:  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) -->
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white)
+
+:floppy_disk: Check out some of the stuff that I've made:
+
+<!-- :floppy_disk: [Check out some of the stuff](https://ed-dickinson.github.io/) that I, ([or my alter-ego](https://crumbdouglas.github.io/) :notes:), have made. -->
+:godmode: [Multi Mask](https://multi-mask.netlify.app/)  
+:fairy_man: [Living Yourself](https://ed-dickinson.net/living-yourself) (an album)
+
+Or find me at:
+
+:globe_with_meridians: [ed-dickinson.net](https://ed-dickinson.net/)  
+:mailbox: hello@ed-dickinson.net   
+:briefcase: [LinkedIn](www.linkedin.com/in/-ed-dickinson)
+
+
+### :v:
+Peace
 
 ![Ed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ed-dickinson&show_icons=true&hide=prs)
 
@@ -24,16 +37,6 @@
 <!--
 **ed-dickinson/ed-dickinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 <!-- 
