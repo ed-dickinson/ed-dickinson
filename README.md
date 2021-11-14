@@ -1,7 +1,7 @@
 # 👋
-### Howdy
+### Howdy!
 
-I'm a budding Javascript developer and web designer. Full-stack, front-end, full-back, centre-midfield– I'm into it all.
+For the purposes of here– I'm a budding Javascript developer. Elsewhere I'm a music-maker and a bike-fixer.
 
 My tools of choice:  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
