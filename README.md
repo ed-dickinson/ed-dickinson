@@ -16,8 +16,8 @@ My tools of choice:
 :floppy_disk: Check out some of the stuff that I've made:
 
 <!-- :floppy_disk: [Check out some of the stuff](https://ed-dickinson.github.io/) that I, ([or my alter-ego](https://crumbdouglas.github.io/) :notes:), have made. -->
-:runner: [Jog-Log](https://jog-log.netlify.app/), a run-tracking web app. 
-:godmode: [Multi Mask](https://multi-mask.netlify.app/), a communal mask-creation website. 
+:runner: [Jog-Log](https://jog-log.netlify.app/), a run-tracking web app.  
+:godmode: [Multi Mask](https://multi-mask.netlify.app/), a communal mask-creation website.  
 :fairy_man: [Living Yourself](https://ed-dickinson.net/living-yourself), an album.
 
 Or find me at:
