@@ -17,7 +17,7 @@ My tools of choice:
 
 <!-- :floppy_disk: [Check out some of the stuff](https://ed-dickinson.github.io/) that I, ([or my alter-ego](https://crumbdouglas.github.io/) :notes:), have made. -->
 :runner: [Jog-Log](https://jog-log.netlify.app/), a run-tracking web app.  
-:red_circle: [Sound Shapes](https://ed-dickinson.net/sound-shapes/1/), a instrument (?) that generates sounds from the shapes you create.
+:small_red_triangle: [Sound Shapes](https://ed-dickinson.net/sound-shapes/1/), a instrument (?) that generates sounds from the shapes you create.  
 :godmode: [Multi Mask](https://multi-mask.netlify.app/), a communal mask-creation website.  
 :fairy_man: [Living Yourself](https://ed-dickinson.net/living-yourself), an album.
 
