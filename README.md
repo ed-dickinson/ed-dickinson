@@ -15,7 +15,7 @@ My tools of choice:
 
 :floppy_disk: Check out some of the stuff that I've made:
 
-<!-- :floppy_disk: [Check out some of the stuff](https://ed-dickinson.github.io/) that I, ([or my alter-ego](https://crumbdouglas.github.io/) :notes:), have made. -->
+:capital_abcd: [Tumbleword](https://ed-dickinson.net/tumbleword/), a game that plays like a sort of hybrid between Wordle and Tetris.  
 :runner: [Jog-Log](https://jog-log.netlify.app/), a run-tracking web app.  
 :small_orange_diamond: [Sound Shapes](https://ed-dickinson.net/sound-shapes/1/), a instrument (?) that generates sounds from the shapes you create.  
 :godmode: [Multi Mask](https://multi-mask.netlify.app/), a communal mask-creation website.  
