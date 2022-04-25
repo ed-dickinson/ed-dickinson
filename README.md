@@ -32,7 +32,7 @@ Or find me at:
 ### :v:
 Peace
 
-![Ed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ed-dickinson&show_icons=true&hide=prs)
+<!-- ![Ed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ed-dickinson&show_icons=true&hide=prs) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ed-dickinson&langs_count=8&layout=compact&exclude_repo=hi,ed-dickinson.github.io)
 
