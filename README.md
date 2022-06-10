@@ -1,9 +1,7 @@
 # 👋
 ### Howdy!
 
-For the purposes of here– I'm a budding Javascript developer. Elsewhere I'm a music-maker and a bike-fixer.
-
-My tools of choice:  
+<!-- My tools of choice:  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)  
@@ -11,10 +9,11 @@ My tools of choice:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) -->
 
 
-:floppy_disk: Check out some of the stuff that I've made:
+<!--:floppy_disk: -->
+Check out some of the stuff that I've made: 
 
 :capital_abcd: [Tumbleword](https://ed-dickinson.net/tumbleword/), a game that plays like a sort of hybrid between Wordle and Tetris.  
 :runner: [Jog-Log](https://jog-log.netlify.app/), a run-tracking web app.  
