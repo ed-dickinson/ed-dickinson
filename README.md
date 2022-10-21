@@ -16,10 +16,10 @@
 Check out some of the stuff I've made: 
 
 :capital_abcd: [Tumbleword](https://ed-dickinson.net/tumbleword/), a game that plays like a sort of hybrid between Wordle and Tetris.  
-:runner: [Jog-Log](https://jog-log.netlify.app/), a run-tracking web app.  
-:small_orange_diamond: [Sound Shapes](https://ed-dickinson.net/sound-shapes/1/), a instrument (?) that generates sounds from the shapes you create.  
+:runner: [Jog-Log](https://jog-log.netlify.app/), a run-tracking web app.   
 :godmode: [Multi Mask](https://multi-mask.netlify.app/), a communal mask-creation website.  
-:fairy_man: [Living Yourself](https://ed-dickinson.net/living-yourself), an album.
+:fairy_man: [Living Yourself](https://ed-dickinson.net/living-yourself), an album.  
+:small_orange_diamond: [Sound Shapes](https://ed-dickinson.net/sound-shapes/1/), a instrument (?) that generates sounds from the shapes you create.
 
 Or find me at:
 
