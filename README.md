@@ -15,7 +15,7 @@
 <!--:floppy_disk: -->
 Check out some of the stuff I've made: 
 
-:capital_abcd: [Tumbleword](https://ed-dickinson.net/tumbleword/), a game that plays like a sort of hybrid between Wordle and Tetris.  
+:capital_abcd: [Tumbleword](https://ed-dickinson.net/tumbleword/), a game that plays like a hybrid between Wordle and Tetris.  
 :runner: [Jog-Log](https://jog-log.netlify.app/), a run-tracking web app.   
 :godmode: [Multi Mask](https://multi-mask.netlify.app/), a communal mask-creation website.  
 :fairy_man: [Living Yourself](https://ed-dickinson.net/living-yourself), an album.  
