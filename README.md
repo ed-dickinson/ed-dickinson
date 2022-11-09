@@ -19,7 +19,7 @@ Check out some of the stuff I've made:
 :runner: [Jog-Log](https://jog-log.netlify.app/), a run-tracking web app.   
 :godmode: [Multi Mask](https://multi-mask.netlify.app/), a communal mask-creation website.  
 :fairy_man: [Living Yourself](https://ed-dickinson.net/living-yourself), an album.  
-:small_orange_diamond: [Sound Shapes](https://ed-dickinson.net/sound-shapes/1/), a instrument (?) that generates sounds from the shapes you create.
+:small_orange_diamond: [Sound Shapes](https://ed-dickinson.net/sound-shapes/1/), a instrument (??) that generates sounds from the shapes you create.
 
 Or find me at:
 
